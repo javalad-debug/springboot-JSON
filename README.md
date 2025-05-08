@@ -6,9 +6,7 @@ First we create the java method that returns the list of students then we make t
 \springboot-rest-api\springboot-rest-api\src\main\java\net\javaguides\springboot\controller\StudentController.java
 
 
-## Code Path
-
-View code @
+## Ref Path
 
 ```diff
 \springboot-rest-api\springboot-rest-api\src\main\java\net\javaguides\springboot\controller\StudentController.java
