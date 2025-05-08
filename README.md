@@ -3,9 +3,6 @@
 First we create the java method that returns the list of students then we make that java method as a RESTful API by using Spring Annotations.
 
 
-\springboot-rest-api\springboot-rest-api\src\main\java\net\javaguides\springboot\controller\StudentController.java
-
-
 ## Ref Path
 
 ```diff
